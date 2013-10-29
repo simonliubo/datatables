@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="205a0776-e028-4560-8def-524c5dbb59f8" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Working\git-liubo\datatables\js\col-reorder-with-resize.js" afterPath="" />
-    </list>
+    <list default="true" id="205a0776-e028-4560-8def-524c5dbb59f8" name="Default" comment="" />
     <ignored path="datatables.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="205a0776-e028-4560-8def-524c5dbb59f8" time="1383013301968" ignored="false" />
     <file path="/README.md" changelist="205a0776-e028-4560-8def-524c5dbb59f8" time="1383013343702" ignored="false" />
-    <file path="/index.html" changelist="205a0776-e028-4560-8def-524c5dbb59f8" time="1383013927681" ignored="false" />
+    <file path="/index.html" changelist="205a0776-e028-4560-8def-524c5dbb59f8" time="1383015157086" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="76" selection-end="76" vertical-scroll-proportion="0.1592719">
+            <state line="13" column="117" selection-start="421" selection-end="421" vertical-scroll-proportion="0.29579067">
               <folding />
             </state>
           </provider>
@@ -179,12 +177,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -269,7 +267,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="76" selection-end="76" vertical-scroll-proportion="0.1592719">
+        <state line="13" column="117" selection-start="421" selection-end="421" vertical-scroll-proportion="0.29579067">
           <folding />
         </state>
       </provider>
